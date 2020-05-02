@@ -10,7 +10,7 @@ repository = "https://github.com/twitchyliquid64/usbd-hid"
 
 [features]
 default = []
-std = ["serde/std", "ssmarhsal/std"]
+std = ["serde/std", "ssmarshal/std"]
 alloc = ["serde/alloc"]
 
 [dependencies]
